@@ -15,7 +15,7 @@ reference algorithms
 ## News
 
 - **[OCT 25th, 2022]**  Passed College English Test Band 6.
-- **[OCT 19th, 2022]**  I’m honored to join the team called BeeLab.🎉✨
+- **[OCT 19th, 2022]**  I’m honored to become a member of the team called BeeLab.🎉✨
 - **[DEC. 2022]** To be updated.
 - **[Mar. 2022]** To be updated.
 

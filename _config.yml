@@ -1,19 +1,19 @@
 # Basic Information 
-title: Chenyu Zhu Sebastian
+title: Hongrun Han
 position: Sophomore Student
 affiliation: Future Campus, Soochow University
-email: 2501304413@qq.com
+email: 1606139770@qq.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: 苏州大学未来校区
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://zhuchyu-sebastian.github.io
+canonical: https://hongrunhan-o.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line. 我先把linked和google scholar注释掉了
 #google_scholar: https://scholar.google.com/
-github_link: https://github.com/ZhuChyu-Sebastian
+github_link: https://github.com/hongrunhan-o
 #linkedin: https://xinyu1213.github.io
 
 # Images (e.g., your profile picture and your website's favicon) 
